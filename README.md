@@ -4,14 +4,14 @@ Ovenly is a user-friendly recipe application that utilizes the Forkify API, crea
 
 # **Features**
 
-1.  ** Recipe Search**
-    Easily search for recipes using the Forkify API, providing a vast database of diverse dishes and cuisines.
+1. **Recipe Search**
+   Easily search for recipes using the Forkify API, providing a vast database of diverse dishes and cuisines.
 
-2.  **Bookmark Favorites**
-    Save your favorite recipes for quick and convenient access in the future. Bookmarking allows you to curate your personalized collection of go-to recipes.
+2. **Bookmark Favorites**
+   Save your favorite recipes for quick and convenient access in the future. Bookmarking allows you to curate your personalized collection of go-to recipes.
 
-3.  **Recipe Creation and Upload**
-    Express your culinary creativity by creating and uploading your own recipes. Share your unique dishes with the Ovenly community and inspire others to try your creations.
+3. **Recipe Creation and Upload**
+   Express your culinary creativity by creating and uploading your own recipes. Share your unique dishes with the Ovenly community and inspire others to try your creations.
 
 **Getting Started**
 Follow these simple steps to get started with Ovenly:
